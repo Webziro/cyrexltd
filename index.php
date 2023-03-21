@@ -1,12 +1,15 @@
+<?php
+    include "property.php";
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>App Landing Template </title>
-<meta name="description" content="">
+<title><?= $siteName ?> </title>
+<meta name="description" content="Building the future, one code at a Time">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="manifest" href="site.html">
+<link rel="manifest" href="site.php">
 <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -54,7 +57,7 @@
 
 <a data-animation="fadeInLeft" data-delay="1.0s" href="industries.html" class="btn radius-btn">Explore</a>
 
-<a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href="https://www.youtube.com/watch?v=1aP-TXUpNoU"><i class="fas fa-play"></i></a>
+<a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href="#"><i class="fas fa-play"></i></a>
 </div>
 </div>
 </div>

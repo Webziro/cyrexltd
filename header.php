@@ -17,13 +17,13 @@
 <nav>
 <ul id="navigation">
 <li class="active"><a href="index.php"> Home</a></li>
-<li><a href="feature.php">Feature</a></li>
-<li><a href="services.php">Services</a></li>
-<li><a href="projects.php">Projects</a></li>
+<li><a href="#">Feature</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Projects</a></li>
 <li><a href="#">Pages</a>
 <ul class="submenu">
-<li><a href="blog.php">Blog</a></li>
-<li><a href="pricing.php">Pricing</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">Pricing</a></li>
 </ul>
 </li>
 <li><a href="contact.php">Contact</a></li>

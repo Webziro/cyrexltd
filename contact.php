@@ -1,4 +1,9 @@
-<?php  include "property.php"; ?>
+<?php 
+
+session_start();
+include "include/init.php";
+include "property.php"; 
+?>
 
 <!doctype html>
 <html class="no-js" lang="zxx">
@@ -101,8 +106,15 @@
 <div class="col-12">
 <h2 class="contact-title">Let's Talk</h2>
 </div>
+
+        <?php 
+            if(isset($_SESSION['msg'])){
+                echo($_SESSION['msg']);
+                unset($_SESSION['msg']);
+            }
+        ?>
 <div class="col-lg-8">
-<form class="form-contact contact_form" action="process/contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+<form class="form-contact contact_form" action="process/contact_process.php" method="POST" id="contactForm" novalidate="novalidate">
 <div class="row">
 <div class="col-12">
 <div class="form-group">

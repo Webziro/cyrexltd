@@ -22,10 +22,10 @@ require_once "constant.php";
 
 
 require_once "myClass.php";
-$user = new myClass();
+// $user = new myClass();
 
 
-require_once "Config.php";
+// require_once "Config.php";
 
 require_once "auth.php";
 $authorization = new Authorization();

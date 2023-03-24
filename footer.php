@@ -9,11 +9,11 @@
 <div class="single-footer-caption mb-30">
 
  <div class="footer-logo">
-<a href="index-2.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+<a href="index-2.html"><img src="assets/img/logos/logo.png" alt="" width="200px></a>
 </div>
-<div class="footer-tittle">
+<div class="footer-tittle>
 <div class="footer-pera">
-<p class="info1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
+<p class="info1">We are an enthusiatic Tech company with passion, We are building the future one code at a time.</p>
 </div>
 </div>
 </div>
@@ -49,14 +49,14 @@
 <div class="col-lg-3 col-md-6 col-sm-8">
 <div class="single-footer-caption mb-50">
 <div class="footer-tittle">
-<h4>Newsletter</h4>
+<h4>Join us</h4>
 <div class="footer-pera footer-pera2">
-<p>Heaven fruitful doesn't over lesser in days. Appear </p>
+<p>Join us to stay abrest of our exicting projects. </p>
 </div>
 
 <div class="footer-form">
 <div id="mc_embed_signup">
- <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
+ <form target="_blank" action="#" method="get" class="subscribe_form relative mail_part" novalidate="true">
 <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
 <div class="form-icon">
 <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm"><img src="assets/img/shape/form_icon.png" alt=""></button>
